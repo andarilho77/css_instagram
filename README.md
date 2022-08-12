@@ -1,10 +1,10 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Bom dia, Boa Tarde ou Boa Noite ....
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Trabalho de Flexbox, recriação do insta
 
-### Os requisitos são:
+### Usamos os seguintes requisitos :
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+## Obrigado!
